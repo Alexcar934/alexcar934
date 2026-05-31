@@ -1,4 +1,4 @@
-# Hey, soy Alejandro Cárabe 👋
+# Hola, soy Alejandro Cárabe 👋
 
 **Data Scientist · Docente · Divulgador de IA**
 
