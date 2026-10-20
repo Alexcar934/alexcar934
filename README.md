@@ -1,14 +1,14 @@
 # Hola, soy Alejandro Cárabe 👋
 
-**Data Scientist · Docente · Divulgador de IA**
+**Data Scientist & Tech Lead @ Luce IT · Docente · Divulgador de IA**
 
-Llevo más de 3 años trabajando como científico de datos y ayudando a otros a entrar en este mundo a través de la docencia y la divulgación. Soy autónomo: hago consultoría de datos y doy clases de Python y Data Science.
+Llevo más de 3 años trabajando como científico de datos. Actualmente soy Data Scientist / Tech Lead en Luce IT, y en paralelo ayudo a otros a entrar en este mundo a través de la docencia y la divulgación.
 
 ---
 
 ### 🚀 Lo que hago
 
-- 🔬 **Consultoría** — Proyectos de ciencia de datos como freelance: NLP, modelos predictivos, análisis exploratorio, pipelines de datos.
+- 🔬 **Data Science & Tech Lead en Luce IT** — Lidero proyectos de ciencia de datos: NLP, modelos predictivos, análisis exploratorio, pipelines de datos.
 - 🎓 **Docencia** — Imparto formación en Python y Data Science, tanto en bootcamps como en formación corporativa.
 - 🎥 **Divulgación** — Cocreador de [AlwaysInDev](https://www.youtube.com/@AlwaysInDev) en YouTube. Contenido sobre IA en Instagram y TikTok como [@alex.indev](https://www.instagram.com/alex.indev/).
 
