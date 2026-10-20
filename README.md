@@ -2,14 +2,14 @@
 
 **Data Scientist & Tech Lead @ Luce IT · Docente · Divulgador de IA**
 
-Llevo más de 3 años trabajando como científico de datos. Actualmente soy Data Scientist / Tech Lead en Luce IT, y en paralelo ayudo a otros a entrar en este mundo a través de la docencia y la divulgación.
+Llevo más de 3 años trabajando como científico de datos. Actualmente soy Data Scientist / Tech Lead en Luce IT, y en paralelo, como freelance, doy clases de Python y Data Science y hago divulgación para ayudar a otros a entrar en este mundo.
 
 ---
 
 ### 🚀 Lo que hago
 
 - 🔬 **Data Science & Tech Lead en Luce IT** — Lidero proyectos de ciencia de datos: NLP, modelos predictivos, análisis exploratorio, pipelines de datos.
-- 🎓 **Docencia** — Imparto formación en Python y Data Science, tanto en bootcamps como en formación corporativa.
+- 🎓 **Docencia (freelance)** — Imparto formación en Python y Data Science, tanto en bootcamps como en formación corporativa.
 - 🎥 **Divulgación** — Cocreador de [AlwaysInDev](https://www.youtube.com/@AlwaysInDev) en YouTube. Contenido sobre IA en Instagram y TikTok como [@alex.indev](https://www.instagram.com/alex.indev/).
 
 ### 🎤 Speaker
